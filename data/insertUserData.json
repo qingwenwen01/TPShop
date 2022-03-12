@@ -1,0 +1,56 @@
+[
+  {
+    "desc": "只添加手机",
+    "nickname": "xqw017",
+    "password": "123456",
+    "mobile": "12345678935",
+    "email": null,
+    "sex": 0,
+    "msg": "添加成功"
+  },
+  {
+    "desc": "只添加邮箱",
+    "nickname": "xqw018",
+    "password": "123456",
+    "mobile": null,
+    "email": "123888@qq.com",
+    "sex": 1,
+    "msg": "添加成功"
+  },
+  {
+    "desc": "邮箱和手机号均添加",
+    "nickname": "xqw019",
+    "password": "123456",
+    "mobile": "12345678936",
+    "email": "123436@qq.com",
+    "sex": 0,
+    "msg": "添加成功"
+  },
+  {
+    "desc": "邮箱已存在，添加失败",
+    "nickname": "xqw014",
+    "password": "123456",
+    "mobile": "12345678933",
+    "email": "1234@qq.com",
+    "sex": 0,
+    "msg": "添加失败"
+  },
+  {
+    "desc": "手机已注册，添加失败",
+    "nickname": "xqw015",
+    "password": "123456",
+    "mobile": "12345678932",
+    "email": "1235@qq.com",
+    "sex": 0,
+    "msg": "添加失败"
+  },
+  {
+    "desc": "不设置性别信息，账号添加成功",
+    "nickname": "xqw016",
+    "password": "123456",
+    "mobile": "12345678937",
+    "email": "12367@qq.com",
+    "sex": null,
+    "msg": "添加成功"
+  }
+]

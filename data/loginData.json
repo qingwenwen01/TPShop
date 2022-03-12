@@ -1,0 +1,32 @@
+[
+  {
+    "desc": "test---01",
+    "username": "12345678901",
+    "password": "1",
+    "verify_code": "8888",
+    "verify_status_code": 200,
+    "login_status_code": 200,
+    "status": 0,
+    "msg": "验证码错误"
+  },
+    {
+    "desc": "test---02",
+    "username": "12345678901",
+    "password": "1",
+    "verify_code": "8888",
+    "verify_status_code": 200,
+    "login_status_code": 200,
+    "status": 0,
+    "msg": "验证码错误"
+  },
+    {
+    "desc": "test---03",
+    "username": "12345678901",
+    "password": "1",
+    "verify_code": "8888",
+    "verify_status_code": 200,
+    "login_status_code": 200,
+    "status": 0,
+    "msg": "验证码错误"
+  }
+]
